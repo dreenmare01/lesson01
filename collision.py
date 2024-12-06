@@ -1,2 +1,2 @@
-print('Phrase 1')
-print('Phrase 2')
+print('phrase 1') # lower case
+print('phrase 2') # lower case

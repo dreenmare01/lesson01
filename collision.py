@@ -1,2 +1,2 @@
-print('Phrase 1')
-print('Phrase 2')
+print('PHRASE 1') # upper letter
+print('PHRASE 2') # upper letter

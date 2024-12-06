@@ -1,5 +1,5 @@
 while True:
     a = input()
-    if a == 'S|TOP':
+    if a == 'STOP':
         break
     print(a)
